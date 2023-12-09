@@ -12,10 +12,8 @@ Check Big Repos for Files bigger than the allowed 100 MB and create or update a 
 
 ## How-To-Use
 
-   1. Download the latest release of [xscr33m.s_BigFile_Checker.zip](https://github.com/xscr33m/BigFile_Checker/releases)  →→→→→→→→→→→→→→→→→
-   2. Unzip the "xscr33m.s_BigFile_Checker.zip" file with 7Zip or another program.
-   3. Open the extracted folder.
-   4. Drag your Repo-Folder you want to check on the "xscr33m.s_BigFile_Checker.exe" and watch the Magic happen!
+   1. Download the latest release of [xscr33m.s_BigFile_Checker.exe](https://github.com/xscr33m/BigFile_Checker/releases)  →→→→→→→→→→→→→→→→→
+   2. Drag your Repo-Folder you want to check on the "xscr33m.s_BigFile_Checker.exe" and watch the Magic happen!
 
 
 ## Sneak-Preview
