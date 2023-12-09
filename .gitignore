@@ -1,0 +1,12 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/
+bin/Debug
+bin/Release
+/obj/
+/.gitignore
+/.gitattributes
+/bin/Release/BigFile_Checker.pdb
+/bin/Release/BigFile_Checker.exe
