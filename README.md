@@ -1,5 +1,5 @@
 ﻿[![Pricing](https://img.shields.io/badge/Price-Free-green?style=for-the-badge&color=green)](https://github.com/xscr33m/BigFile_Checker/)
-[![Downloads](https://img.shields.io/github/downloads/xscr33m/BigFile_Checker/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/BigFile_Checker/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/xscr33m/BigFile_Checker/total?style=for-the-badge&color=gold)](https://github.com/xscr33m/BigFile_Checker/releases)
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xscr33m/BigFile_Checker/Master?style=for-the-badge&color=gold)](https://github.com/xscr33m/BigFile_Checker/commits/Master/)
 [![GitHub License](https://img.shields.io/github/license/xscr33m/BigFile_Checker?style=for-the-badge&color=gold)](https://spdx.org/licenses/)
 [![Discord](https://img.shields.io/discord/1102440447835648124?style=for-the-badge&label=Discord&color=gold)](https://discord.com/invite/PasvscT4Nh)
